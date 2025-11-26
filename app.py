@@ -1,4 +1,22 @@
 #!/usr/bin/env python3
+"""
+========================================================================
+Program Name: Switch To Tor
+Created by: Jutt Cyber Tech
+Year: 2025
+========================================================================
+
+Description:
+This program is created for ethical, educational, and aesthetic purposes.
+All code is the intellectual property of Jutt Cyber Tech.
+
+Usage:
+- Personal and commercial use allowed.
+- Modification, redistribution, resale, or sharing is strictly prohibited.
+- For full licence and usage rules, see the LICENSE file.
+
+========================================================================
+"""
 import subprocess
 import time
 import sys
@@ -365,4 +383,5 @@ if __name__ == "__main__":
         try:
             main_menu()
         except KeyboardInterrupt:
+
             console.print("\n[bold red]Program interrupted by user. Exiting safely...[/bold red]")
