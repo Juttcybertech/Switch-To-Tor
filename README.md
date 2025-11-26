@@ -37,7 +37,7 @@ This tool is designed for **Kali Linux** and **Parrot OS**.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/JuttStudio/Switch-To-Tor.git
+    git clone https://github.com/juttcybertech/Switch-To-Tor.git
     cd Switch-To-Tor
     ```
 
